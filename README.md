@@ -2,7 +2,7 @@
 the program is currently sniffing on the first interface that can be found (mostly eth0) you can specify a specific interface in the scapy settings or by adding "iface=<INTERFACE>" in the places scapy sniffs, or send packets!
 
 # Author:
-Sp4rkn3r0
+Sp4rkN3r0
 # License:
 MIT
 
